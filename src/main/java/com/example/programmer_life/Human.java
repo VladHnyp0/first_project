@@ -22,7 +22,7 @@ public class Human {
     }
 
     public void human_say() {
-        System.out.println("\nName: " + name + "\nAge: " + age + "\nHome: " + home + "\nCar: None");
+        System.out.println("\nName: " + name + "\nAge: " + age + "\nHome: " + home);
     }
 
 
